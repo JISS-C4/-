@@ -1,0 +1,9 @@
+2018-10-11 11:23:49 [INFO] pandownload version: 2.0.3
+2018-10-11 11:23:50 [INFO] open user database success
+2018-10-11 11:23:50 [INFO] open task database success
+2018-10-11 11:23:50 [INFO] open share database success
+2018-10-11 11:23:56 [INFO] aria2 version: 1.34.0
+2018-10-11 11:23:56 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2018-10-11 11:23:56 [INFO] create main window
+2018-10-11 11:24:37 [INFO] verify cookie (582)
+2018-10-11 11:24:41 [INFO] user login success (3813827058): 囧rzJISS
